@@ -1,3 +1,4 @@
+//no-two-elements-are-adjacent
 package com.ankit;
 
 import java.util.Scanner;
